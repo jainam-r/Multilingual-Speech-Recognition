@@ -1,5 +1,5 @@
-// import 'react' from React;
-export const Base = () => {
+// import 'react' from React
+const Base = () => {
     
     return(
         <div>
@@ -9,3 +9,4 @@ export const Base = () => {
         </div>
     )
 }
+export default Base;
